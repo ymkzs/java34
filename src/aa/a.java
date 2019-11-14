@@ -1,5 +1,5 @@
 package aa;
 
-public class a {
-
+public class a{
+	int a;
 }
